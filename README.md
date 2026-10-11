@@ -6,10 +6,20 @@
   <img src="https://img.shields.io/badge/Design-Material%203-757575.svg?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material 3" />
   <img src="https://img.shields.io/badge/Min%20SDK-29%20(Android%2010)-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android 10+" />
   <img src="https://img.shields.io/badge/Target%20SDK-36-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Target SDK 36" />
+  <img src="https://img.shields.io/badge/Ecosystem-EonMirth-0052CC.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EonMirth Ecosystem" />
 </p>
 
 > **Legitimate, evidence-based, capability-driven Android lock-screen notification shade & Quick Settings protection.**
-> *A official product by **EonMirth**.*
+> *An official security product in the [**EonMirth Ecosystem**](https://github.com/emonmirth/EonMirth-Web).*
+
+---
+
+## 🌐 EonMirth Ecosystem
+
+**EonMirth Panel Guard (PG)** is developed as an official mobile security solution under the **EonMirth** brand.
+
+* 🌐 **EonMirth Web Platform**: [github.com/emonmirth/EonMirth-Web](https://github.com/emonmirth/EonMirth-Web)
+* 📱 **EonMirth Mobile Security**: [github.com/emonmirth/PG](https://github.com/emonmirth/PG)
 
 ---
 
@@ -110,5 +120,5 @@ cd PG
 
 ## 📄 License & Copyright
 
-Copyright © 2026 **EonMirth**. All rights reserved.
+Copyright © 2026 **[EonMirth](https://github.com/emonmirth/EonMirth-Web)**. All rights reserved.
 Developed with high standards of security, privacy, and user experience.
