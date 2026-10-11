@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EonMirth Panel Guard</string>
+    <string name="device_admin_description">Managed Device Lock Task controls for authorized administrators.</string>
+</resources>
